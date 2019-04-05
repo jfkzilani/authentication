@@ -1,30 +1,21 @@
-# Final Project - Full Featured Blog
+# Authentication Assignment
 
-## Web Programming with Python and JavaScript (HarvardX)
+## Applied all authentication features in a existing django-blog for convenience
 
-<b>Language Choice:</b> Python, JavaScript <br>
-<b>Frameworks:</b> Django, Bootstrap <br>
-<b>Database:</b> PostgreSQL <br>
-<b>Other:</b> Django CKEditor, jQuery, Sass <br>
+## for installing dependencies and testing pip3 install -r requirements.txt
 
-* This is a Mobile-Responsive site.
+## For testing purpose <br>
+    <b>Admin name: zilani </b><br>
+    <b>password: django12 </b><br>
 
-* This personal Blog-Project has Django's User Authentication System.
 
-* Any User can Register this site and can create their own profile.
+* Registration route and filling information ...
 
-* User can upload profile image and add some info about them.
 
-* User can create a writer account to be able to write blog post.
+* A confirmation email sent to
 
-* User can create, edit, publish, and delete their blog post with image by selecting topic.
+* Confirm registration
 
-* Only staff and admin user can create topic.
+* After that, User added to database, password saved in hash format not in plain text.
 
-* Anyone can Search in this site by putting anything related to post.
-
-* Viewers can comment on any post by providing their name and email.
-
-* Related posts will show up while inside of a post which will be filtered by topic name.
-
-* Quick Walkthrough - https://www.youtube.com/watch?v=5sywVg_tyQU
+* Now, user can login ...
