@@ -2,7 +2,7 @@
 
 ## Applied all authentication features in a existing django-blog for convenience
 
-## for installing dependencies and testing <b>pip3 install -r requirements.txt </b>
+## for installing dependencies and testing <pre><code>pip3 install -r requirements.txt </code></pre>
 
 ## For testing purpose <br>
     <b>Admin name: zilani </b><br>
