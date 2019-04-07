@@ -2,6 +2,9 @@
 
 ## Applied all authentication features in a existing django-blog for convenience
 
+<b>Language Choice:</b> Python, JavaScript <br>
+<b>Frameworks:</b> Django, Bootstrap <br>
+<b>Database:</b> PostgreSQL <br>
 ## for installing dependencies and testing <pre><code>pip3 install -r requirements.txt </code></pre>
 
 ## For testing purpose <br>
@@ -14,10 +17,10 @@
 * Registration route and filling information ...
 ![register process](https://user-images.githubusercontent.com/42479575/55678492-87929e00-591c-11e9-9d64-feab425b943c.png)
 
-* A confirmation email sent to
+* A confirmation email sent to the email ...
 ![confirmation email](https://user-images.githubusercontent.com/42479575/55678504-db9d8280-591c-11e9-9d23-7225487ad998.png)
 
-* Confirm registration
+* Confirm registration ...
 ![account activation confirm](https://user-images.githubusercontent.com/42479575/55678515-08ea3080-591d-11e9-99ae-1133546e6be5.png)
 
 * After that, User added to database, password saved in hash format not in plain text.
