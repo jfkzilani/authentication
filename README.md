@@ -6,7 +6,7 @@
 <b>Frameworks:</b> Django, Bootstrap <br>
 <b>Database:</b> PostgreSQL <br>
 ## for installing dependencies and testing <pre><code>pip3 install -r requirements.txt </code></pre>
-
+## Run the local server by <pre><code>python manage.py runserver</code></pre>
 ## For testing purpose <br>
     Admin name: zilani
     password: django12
