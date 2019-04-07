@@ -7,7 +7,7 @@
 <b>Database:</b> PostgreSQL <br>
 ## for installing dependencies and testing <pre><code>pip3 install -r requirements.txt </code></pre>
 ## Then migrate the database by <pre><code>python manage.py makemigrations</code></pre>
-##                              <pre><code>python manage.py migrate</code></pre>
+## and                          <pre><code>python manage.py migrate</code></pre>
 ## Run the local server by <pre><code>python manage.py runserver</code></pre>
 ## For testing purpose <br>
     Admin name: zilani
