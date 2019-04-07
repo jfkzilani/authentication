@@ -12,12 +12,15 @@
 
 
 * Registration route and filling information ...
-
+![register process](https://user-images.githubusercontent.com/42479575/55678492-87929e00-591c-11e9-9d64-feab425b943c.png)
 
 * A confirmation email sent to
+![confirmation email](https://user-images.githubusercontent.com/42479575/55678504-db9d8280-591c-11e9-9d23-7225487ad998.png)
 
 * Confirm registration
+![account activation confirm](https://user-images.githubusercontent.com/42479575/55678515-08ea3080-591d-11e9-99ae-1133546e6be5.png)
 
 * After that, User added to database, password saved in hash format not in plain text.
+![user added to db with hashed password](https://user-images.githubusercontent.com/42479575/55678522-23bca500-591d-11e9-82bd-cdfc5e22cb9c.png)
 
-* Now, user can login ...
+* Now, user can login by the same credentials ...
