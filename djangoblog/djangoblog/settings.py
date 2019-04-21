@@ -149,7 +149,7 @@ EMAIL_USE_TLS = True
 #instead of gmail you can use any domain
 EMAIL_HOST = 'smtp.gmail.com'
 #use your mail, from which confirmation mail will send
-EMAIL_HOST_USER = 'skyfall83760@gmail.com'
+EMAIL_HOST_USER = 'example@gmail.com'
 # password should not put here, it should be imported from another file, but this is for testing
-EMAIL_HOST_PASSWORD = '8cccEEEf'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
